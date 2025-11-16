@@ -1,6 +1,6 @@
 # Secure-Banking-Managment-Sysytem
 
-Welcome to the Banking System project! This Java-based application allows you to manage user accounts, perform transactions, and ensure the security of financial data.
+Welcome to the Secure-Banking-System project! This Java-based application allows you to manage user accounts, perform transactions, and ensure the security of financial data.
 
 ## 🚀 Getting Started
 
